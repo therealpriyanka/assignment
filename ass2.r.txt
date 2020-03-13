@@ -1,0 +1,1 @@
+plot(x=videos$likes,y=videos$comment_count,main="Relation between likes and comments",xlab="likes",ylab="comments")
